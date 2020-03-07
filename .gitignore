@@ -9,6 +9,9 @@ __pycache__/
 # Vs Code
 .vscode/
 
+# Vim
+*.swp
+
 # Distribution / packaging
 .Python
 build/
